@@ -1,0 +1,6 @@
+rootProject.name = 'discord-phi'
+include 'modules'
+include 'bin'
+include 'modules:bot'
+findProject(':modules:bot')?.name = 'bot'
+

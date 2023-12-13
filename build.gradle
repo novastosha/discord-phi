@@ -1,0 +1,6 @@
+allprojects {
+    group = "net.zoda"
+    version = "0.0.1-ALPHA"
+}
+
+description = "An educationairy project demonstrating the not so unique idea of abusing big companies' CDNs as personal cloud storage; this time it's Discord we're using..."
